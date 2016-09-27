@@ -67,6 +67,5 @@ def printGrid(puzzle, grid):
     print('+' + '---+' * 15)
 
     
-
 main()
 
